@@ -17,6 +17,7 @@ public class MainApp {
         }
 
     }
+
     public static int sum(String[][] a) {
         int sum = 0;
         if (a.length != 4) {
